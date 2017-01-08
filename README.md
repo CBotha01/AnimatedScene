@@ -17,11 +17,11 @@ For Windows 7, 8.1, 10
 INSTRUCTIONS ON KEYBOARD EVENTS FOR THIS DEMO :
 
 To test the different keyboard functions do the following :
-The <R> key to start and stop rotation of the entire scene around the y-axis. 
-The <S> key to change the direction of rotation to clockwise or anti-clockwise. 
-The <S> key will have no effect on a scene which isn’t in the process of rotating.
-The <D> and <N> keys to switch between day and night mode.
-<Up> and <Down> arrows which should allow the user to zoom in or out of the animation scene.
+The "R" key to start and stop rotation of the entire scene around the y-axis. 
+The "S" key to change the direction of rotation to clockwise or anti-clockwise. 
+The "S" key will have no effect on a scene which isn’t in the process of rotating.
+The "D" and "N" keys to switch between day and night mode.
+"Up" and "Down" arrows which should allow the user to zoom in or out of the animation scene.
 
 
 TO VIEW THE SOURCE CODE
